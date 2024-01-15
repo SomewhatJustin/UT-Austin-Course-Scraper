@@ -2,3 +2,5 @@
 /.ipynb_checkpoints
 /output (old).csv
 /output.csv
+output-parsed.csv
+output-parsed.csv.zip
